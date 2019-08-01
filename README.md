@@ -1,4 +1,4 @@
-# GameLobbyImpl
+# CPPGAMEFILES
 
 This repisitory contains both a C++ game lobby program and a C++ Hangman game which I wrote based on a previous assignments when I was learning C++. 
 
